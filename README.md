@@ -960,3 +960,12 @@ With the setup above:
 - WireGuard, the firewall service, and AdGuard can all be checked quickly after a reboot.
 
 Contributions, corrections, and hardware-specific notes are welcome.
+
+
+---
+
+# License
+
+This project's original documentation is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. You may share and adapt it, including commercially, as long as appropriate attribution is provided and changes are indicated.
+
+See [LICENSE.md](LICENSE.md) for details.
